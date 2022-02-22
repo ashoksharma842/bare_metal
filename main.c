@@ -1,9 +1,7 @@
-#include<stdio.h>
+// #include <stdio.h>
 
-
-int main(void)
+int main()
 {
-	printf("Hello World\n");
-
-	for(;;);
+	// printf("hello world");
+	while(1);
 }
