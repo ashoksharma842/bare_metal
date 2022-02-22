@@ -82,3 +82,10 @@ to do it for embedded system.
 Used the arm-none-eabi, and compiled a hello world.
 
 created a new repo for bare metal testing.
+
+### Day 11: 22-02-2022
+
+**Today's Progress**: made startup file and linker file
+
+**Thoughts:** the process of linker script is still not clear.
+will work on it tomorrow as well.
